@@ -1,36 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harish Sivaraman aka voidgojo</h1>
 <h3 align="center">Passionate Cybersecurity Researcher and CTF Player</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realvoidgojo&label=Profile%20views&color=0e75b6&style=flat" alt="realvoidgojo" />
-  <img src="https://img.shields.io/github/followers/realvoidgojo?label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/realvoidgojo?label=Stars" alt="stars" />
-</p>
+- 🔭 I’m diving deep into [CTF-Challenges](https://github.com/realvoidgojo/CTF-Challenges), pushing the boundaries of cybersecurity.
+- 🌱 On a quest to master the intricacies of **Go**, expanding my programming toolkit.
+- 👯 Eager to join forces on innovative **Penetration Testing Tools**, let's make the digital world safer together.
+- 🤝 Seeking guidance and collaboration on **Web-Security**, your expertise can make a difference!
+- 📫 Reach out to me at **harishsivaraman@outlook.com**, let's connect and collaborate!
+- ⚡ Fun fact: I create engaging content on YouTube, merging education and entertainment.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=realvoidgojo&theme=darkhub" alt="realvoidgojo" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realvoidgojo&show_icons=true&theme=radical" alt="realvoidgojo" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realvoidgojo&theme=radical" alt="realvoidgojo" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realvoidgojo&show_icons=true&locale=en&layout=compact&theme=radical" alt="realvoidgojo" />
-</p>
-
-- 🔭 I’m currently working on [CTF-Challenges](https://github.com/realvoidgojo/CTF-Challenges)
-- 🌱 I’m currently learning **Go**
-- 👯 I’m looking to collaborate on **Penetration Testing Tools**
-- 🤝 I’m looking for help with **Web-Security**
-- 📫 How to reach me: **harishsivaraman@outlook.com**
-- ⚡ Fun fact: **I make YouTube content**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

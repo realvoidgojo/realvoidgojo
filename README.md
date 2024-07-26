@@ -61,7 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realvoidgojo&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs" />
 </p>
 
-<h3 align="center">Visitor Map:</h3>
-<p align="center">
-  <img src="https://github.com/realvoidgojo/realvoidgojo/blob/main/visitors.svg" alt="visitors" />
-</p>

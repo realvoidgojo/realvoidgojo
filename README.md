@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish Sivaraman aka voidgojo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realvoidgojo&label=Profile%20views&color=0e75b6&style=flat" alt="realvoidgojo" /> </p>
 <h3 align="center">Passionate Cybersecurity Researcher and CTF Player</h3>
 
 - 🔭 I’m diving deep into [CTF-Challenges](https://github.com/realvoidgojo/CTF-Challenges), pushing the boundaries of cybersecurity.

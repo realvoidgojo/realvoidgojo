@@ -2,12 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realvoidgojo&label=Profile%20views&color=0e75b6&style=flat" alt="realvoidgojo" /> </p>
 <h3 align="center">Passionate Cybersecurity Researcher and CTF Player</h3>
 
--  I’m diving deep into [CTF-Challenges](https://github.com/realvoidgojo/CTF-Challenges), pushing the boundaries of cybersecurity.
--  On a quest to master the intricacies of **Go**, expanding my programming toolkit.
--  Eager to join forces on innovative **Penetration Testing Tools**, let's make the digital world safer together.
+-  I'm delving into [CTF-Challenges](https://github.com/realvoidgojo/CTF-Challenges), pushing the limits of cybersecurity.
+-  On a journey to learn the complexities of **Go** and broaden my programming toolkit.
 -  Seeking guidance and collaboration on **Web-Security**, your expertise can make a difference!
--  Reach out to me at **harishsivaraman@outlook.com**, let's connect and collaborate!
 -  Fun fact: I create engaging content on YouTube, merging education and entertainment.
+-  Reach out me at **harishsivaraman@outlook.com**
 
 
 <h3 align="center">Connect with me:</h3>

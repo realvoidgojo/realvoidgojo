@@ -94,12 +94,6 @@
 
 </p>
 
-
-<h3 align="center">Achievements:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realvoidgojo&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realvoidgojo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />

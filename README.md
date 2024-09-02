@@ -10,7 +10,7 @@
 -  Reach out me at **harishsivaraman@outlook.com**
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"> 🔗 Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/realvoidgojo" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-9420781-7651211.png?f=webp&w=30" alt="realvoidgojo" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/realvoidgojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realvoidgojo" height="30" width="15" /></a>
@@ -20,7 +20,7 @@
   <a href="https://www.hackerrank.com/realvoidgojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="realvoidgojo" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/realvoidgojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="realvoidgojo" height="30" width="40" /></a>
 </p>
-<h4 align="center">Programming Languages</h4>
+<h4 align="center">🧑‍💻 Programming Languages</h4>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<h4 align="center">Web Development & Databases </h4>
+<h4 align="center">🕸️ Web Development & Databases </h4>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -67,7 +67,7 @@
   </a>
 </p>
 
-<h4 align="center"> DevOps and Tools</h4>
+<h4 align="center">⚙️ DevOps and Tools</h4>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -92,18 +92,17 @@
   </a>
 </p>
 
-</p>
+<h3 align="center"> 📊  GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvoidgojo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=realvoidgojo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realvoidgojo&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realvoidgojo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realvoidgojo&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realvoidgojo&theme=radical" alt="streak" />
-</p>
+  
+</div>
+
 
 
 

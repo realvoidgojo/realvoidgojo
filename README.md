@@ -6,7 +6,7 @@ I'm a cybersecurity enthusiast and content creator on YouTube, where I blend des
 ![](https://komarev.com/ghpvc/?username=realvoidgojo&color=green)
 [![Linkedin](https://img.shields.io/badge/-Harish%20Sivaraman-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/realvoidgojo/)](https://www.linkedin.com/in/realvoidgojo/)
 <a href="https://instagram.com/realvoidgojo" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-[![RockYouSec YouTube](https://img.shields.io/youtube/channel/subscribers/UCSF6yyDHbBv8uy8dE0OuCww?style=social)](https://www.youtube.com/@rockyousec)
+[![RockYouChannel YouTube](https://img.shields.io/youtube/channel/subscribers/UCSF6yyDHbBv8uy8dE0OuCww?style=social)]([https://www.youtube.com/@rockyousec](https://www.youtube.com/@RockYouChannel/videos))
 
 ## Who Am I?
 I’m a **Software Developer**  and a **Content Creator** on [YouTube](https://www.youtube.com/@rockyousec/videos). I love learning about technology and art, and I share my projects on GitHub. Additionally, I write blogs on Medium at [@realvoidgojo](https://medium.com/@realvoidgojo). I also practice my skills in Capture The Flag (CTF) competitions.

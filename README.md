@@ -9,7 +9,7 @@ I'm a cybersecurity enthusiast and content creator on YouTube, where I blend des
 [![RockYouChannel YouTube](https://img.shields.io/youtube/channel/subscribers/UCSF6yyDHbBv8uy8dE0OuCww?style=social)]([https://www.youtube.com/@rockyousec](https://www.youtube.com/@RockYouChannel/videos))
 
 ## Who Am I?
-I’m a **Software Developer**  and a **Content Creator** on [YouTube](https://www.youtube.com/@rockyousec/videos). I love learning about technology and art, and I share my projects on GitHub. Additionally, I write blogs on Medium at [@realvoidgojo](https://medium.com/@realvoidgojo). I also practice my skills in Capture The Flag (CTF) competitions.
+I’m a **Software Developer**  and a **Content Creator** on [YouTube](https://www.youtube.com/@rockyouchannel/videos). I love learning about technology and art, and I share my projects on GitHub. Additionally, I write blogs on Medium at [@realvoidgojo](https://medium.com/@realvoidgojo). I also practice my skills in Capture The Flag (CTF) competitions.
 
 
 # 💻 Tech Stack:

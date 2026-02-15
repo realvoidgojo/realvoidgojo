@@ -1,6 +1,6 @@
 # Hey, I'm Harish aka realvoidgojo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm a cybersecurity enthusiast and often content creator on YouTube, where I blend design aesthetics with technical insights. I have a passion for Linux Kernel-based operating systems, particularly Debian variants (like Ubuntu, Kali, and Parrot) and Arch Linux—though, to be honest, I've never tried installing Arch without scripts! (Skill Issues || Lazy)
+I'm a ________ and often create content  on YouTube, where I'm good at design aesthetics and sense. I'm enthusiast  abt Linux distros, Arch Linux—though, TBH, I've never tried installing Arch without scripts! , now OMARCHY much needed good as my opinion
 
 [![Github](https://img.shields.io/github/followers/realvoidgojo?label=Follow&style=social)](https://github.com/realvoidgojo)
 ![](https://komarev.com/ghpvc/?username=realvoidgojo&color=green)
@@ -9,10 +9,7 @@ I'm a cybersecurity enthusiast and often content creator on YouTube, where I ble
 [![RockYouChannel YouTube](https://img.shields.io/youtube/channel/subscribers/UCSF6yyDHbBv8uy8dE0OuCww?style=social)]([https://www.youtube.com/@rockyousec](https://www.youtube.com/@RockYouChannel/videos))
 
 ## Who Am I?
-I’m a **Software Developer**  and a **Content Creator** on [YouTube](https://www.youtube.com/@rockyouchannel/videos). I often learning about technology , and I share my projects on GitHub. Additionally, I write blogs on Medium at [@realvoidgojo](https://medium.com/@realvoidgojo). I also practice my skills in Capture The Flag (CTF) competitions.
-
-
-# 💻 Tech Stack:
+I’m a _____________ on [YouTube](https://www.youtube.com/@rockyouchannel/videos). I am often curious about new tech, and I share my projects on GitHub. Additionally, I write blogs on Medium at [@realvoidgojo](https://medium.com/@realvoidgojo).
 
 ### Programming Languages
 
@@ -41,7 +38,4 @@ I’m a **Software Developer**  and a **Content Creator** on [YouTube](https://w
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=realvoidgojo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 

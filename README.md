@@ -3,6 +3,10 @@
 yo. i touch frontend sometimes. mostly after effects & tailwind crimes.  
 sometimes i pretend to code backend. mostly python & go when i feel dangerous.
 
+[![YouTube](https://img.shields.io/badge/RockYouChannel-%F0%9F%93%BA-lightgrey?logo=youtube)](https://www.youtube.com/@RockYouChannel)
+[![X](https://img.shields.io/badge/@realvoidgojo-%F0%9F%90%A6-lightgrey?logo=x)](https://twitter.com/realvoidgojo)
+[![Medium](https://img.shields.io/badge/@realvoidgojo-%E2%9C%8D%EF%B8%8F-lightgrey?logo=medium)](https://medium.com/@realvoidgojo)
+
 current status:  
 - ricing arch → failed → OMARCHY pipeline (script gang rise up)  
 - never installed arch vanilla. not even once. shame.  
@@ -20,16 +24,7 @@ linux takes:
 - OMARCHY actually slaps, fight me
 - gentoo when i want to suffer for real
 
-links (stalk responsibly):
-- 🎥 [YouTube → RockYouChannel](https://www.youtube.com/@RockYouChannel) – design + tech + questionable life choices
-- 🐦 [X / Twitter](https://twitter.com/realvoidgojo)
-- 💼 [LinkedIn (professional lying)](https://www.linkedin.com/in/realvoidgojo/)
-- 📸 [Insta (more aesthetics)](https://instagram.com/realvoidgojo)
-- ✍️ [Medium (when i pretend to write)](https://medium.com/@realvoidgojo)
 
-stats go brrr:
-![](https://komarev.com/ghpvc/?username=realvoidgojo&color=green)
-[![GitHub followers](https://img.shields.io/github/followers/realvoidgojo?label=follow&style=social)](https://github.com/realvoidgojo)
 
 pinned:
 - natas-x → cheating at wargames like a pro
